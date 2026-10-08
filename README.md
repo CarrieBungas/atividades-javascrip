@@ -5,9 +5,9 @@
 
 let pontos = 20;
 pontos = pontos + 10;
-console.log("Pontos:", pontos); // 30
+console.log("Pontos:", pontos);
 
-// 2. Constante MAX_PONTOS
+
 const MAX_PONTOS = 100;
 console.log("Máximo de pontos:", MAX_PONTOS);
 
